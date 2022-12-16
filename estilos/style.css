@@ -134,3 +134,8 @@ form > a.botao > span {
     background-color: #68e0dc;
 
  }
+
+ #mail {
+    color: #2d6462;
+    transform: translateX(-15px);
+ }
